@@ -1,0 +1,4 @@
+[run]
+branch = true
+include = intake_bluesky_tiff_series/*
+omit = intake_bluesky_tiff_series/_version.py
